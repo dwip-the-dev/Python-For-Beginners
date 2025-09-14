@@ -1,5 +1,14 @@
 ## 🐍 Python For Beginners
 
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![](https://img.shields.io/badge/Open-Source-orange?style=for-the-badge&labelColor=lightgrey&logo=github&logoSize=auto)
+
 > 🚀 A collection of **100+ beginner-friendly Python programs** to help you learn Python by example.  
 > Each script is simple, easy to follow, and covers everything from **basics → loops → data structures → OOP → algorithms**.  
 > Some are polished, some are just raw working snippets 💀 — because learning is about *doing first, perfecting later*.  
