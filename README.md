@@ -20,7 +20,7 @@ Clone the repo:
 ```bash
 git clone https://github.com/dwip-the-dev/Python-For-Beginners.git
 cd Python-For-Beginners
-
+cd 'Code Files'
 Run any file:
 
 python filename.py or python3 filename.py
