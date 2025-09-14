@@ -7,7 +7,8 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![](https://img.shields.io/badge/Open-Source-orange?style=for-the-badge&labelColor=lightgrey&logo=github)
+![Open Source](https://img.shields.io/badge/Open-Source-orange?style=flat&labelColor=lightgrey&logo=github)
+
 
 > 🚀 A collection of **100+ beginner-friendly Python programs** to help you learn Python by example.  
 > Each script is simple, easy to follow, and covers everything from **basics → loops → data structures → OOP → algorithms**.  
